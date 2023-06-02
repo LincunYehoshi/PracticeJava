@@ -3,7 +3,7 @@
 Vending.java
 VendingChange.java
 Cafe.java
-上から順に作成しました。
+の順で作成しました。
 
 Javaのコーディングの練習として、if,for,switchの制御構文を使った練習をしました。
 
